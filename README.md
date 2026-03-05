@@ -1,3 +1,4 @@
 # TKD-System-Scoreboard
 
-Una página que realice para un proyecto de una empresa de marcadores de taekwondo.
+Una página realizada para una empresa de marcadores de taekwondo.
+Esperando ser de utilidad en el sector.
